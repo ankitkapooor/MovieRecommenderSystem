@@ -11,5 +11,7 @@ The following code is written completely in native **python** with the help of a
 
 The entire code is written in just one executable python file, namely **recommendersystem.py**. The file takes no inputs, but outputs a list of 20 recommended movies based on the movie initially provided to the algorithm. The execution steps are as follows:
 
-  python recommendersystem.py
-  (make sure that all files are in the same directory)
+~~~python
+python recommendersystem.py
+(make sure that all files are in the same directory)
+~~~

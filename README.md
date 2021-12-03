@@ -8,8 +8,10 @@ This is a movie recommender system that works on the basis of the **KNN (K Neare
 
 The entire code is written in just one executable python file, namely **recommendersystem.py**. The file takes no inputs, but outputs a list of 20 recommended movies based on the movie initially provided to the algorithm. The execution steps are as follows:
 
-  python recommendersystem.py
-  (make sure that all files are in the same directory)
+~~~python
+python recommendersystem.py
+(make sure that all files are in the same directory)
+~~~
 
 The movie database for this project was taken from **[here](https://github.com/Praful2000/YoutubeLectures/tree/master/Movie%20KNN)**
 
