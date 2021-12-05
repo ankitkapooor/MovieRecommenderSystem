@@ -24,3 +24,11 @@ Contents of the repository:
 * **results.md** : A .md file containing the various results from the program
 
 **Included in all the .md files is a link to a google docs file with the same information available in a .docx format**
+
+This project was done under the supervision of
+Dr. Siddhaling Urolagin,
+PhD, Post-Doc, (Machine Learning),
+dr.siddhaling@gmail.com,
+www.github.com/siddhaling
+www.researchreader.com
+
